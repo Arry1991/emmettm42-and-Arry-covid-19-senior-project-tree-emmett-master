@@ -1,0 +1,58 @@
+* {
+  background-color: #b5b99f;
+  font-family: comic sans ms;
+}
+h1 {
+  text-align: left;
+  width: 100%;
+  font-weight: bolder;
+}
+
+section {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  width: 5%;
+}
+
+*.t1 {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  max-height: 320px;
+  overflow-y: scroll;
+  table-layout: auto;
+  border-spacing: 10;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
+aside {
+  border-collapse: collapse;
+  margin: 25px 0;
+  width: 25%;
+  max-height: 320px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 50px;
+  margin-left: 15px;
+  margin-right: 15px;
+  float: center;
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
